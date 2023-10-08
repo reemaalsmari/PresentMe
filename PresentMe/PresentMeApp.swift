@@ -12,6 +12,7 @@ struct PresentMeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            Text("I am Engineer.")
         }
     }
 }

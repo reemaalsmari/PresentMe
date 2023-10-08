@@ -14,6 +14,7 @@
 		99D4542C2AD2E225007E3E5C /* PresentMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D4542B2AD2E225007E3E5C /* PresentMeTests.swift */; };
 		99D454362AD2E225007E3E5C /* PresentMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D454352AD2E225007E3E5C /* PresentMeUITests.swift */; };
 		99D454382AD2E225007E3E5C /* PresentMeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D454372AD2E225007E3E5C /* PresentMeUITestsLaunchTests.swift */; };
+		A5664A962AD2F803008E1E2B /* PresentMe-Haifa.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5664A952AD2F803008E1E2B /* PresentMe-Haifa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		99D454312AD2E225007E3E5C /* PresentMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresentMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		99D454352AD2E225007E3E5C /* PresentMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentMeUITests.swift; sourceTree = "<group>"; };
 		99D454372AD2E225007E3E5C /* PresentMeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentMeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A5664A952AD2F803008E1E2B /* PresentMe-Haifa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PresentMe-Haifa.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				99D4541A2AD2E225007E3E5C /* PresentMeApp.swift */,
+				A5664A952AD2F803008E1E2B /* PresentMe-Haifa.swift */,
 				99D4541C2AD2E225007E3E5C /* ContentView.swift */,
 				99D4541E2AD2E225007E3E5C /* Assets.xcassets */,
 				99D454202AD2E225007E3E5C /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				99D4541D2AD2E225007E3E5C /* ContentView.swift in Sources */,
 				99D4541B2AD2E225007E3E5C /* PresentMeApp.swift in Sources */,
+				A5664A962AD2F803008E1E2B /* PresentMe-Haifa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
